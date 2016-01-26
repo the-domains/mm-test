@@ -1,7 +1,7 @@
 name: MM test
 favicon: null
-layout_spectrum: 0.4954025635961443
-typography_spectrum: 0.4673264380544424
+layout_spectrum: 0.24905
+typography_spectrum: 0.63619
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3974451886024326
+    - '#868684'
+    - '#d4d8e1'
+    - '#f3f8fb'
+    - '#412d1f'
+    - '#616463'
+  brandStrength: 0
   lightness: 0.37637272430583835
-  saturation: 0.30114015634171665
-  rhythmicContrast: 0.6936792859341949
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
